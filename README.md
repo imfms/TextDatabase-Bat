@@ -219,3 +219,6 @@ Properties模式读取数据(key与value之间使用制表符分割模式)
 
 		CALL:Properties_Write "config.ini" phoneNumber
 
+## 相关链接
+- [DoDownloadNetFile-Bat](https://github.com/imfms/DoDownloadNetFile-Bat)
+	
